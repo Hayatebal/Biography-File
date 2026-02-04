@@ -1,0 +1,43 @@
+body {
+    font-family: "Times New Roman";
+    background-color: "lightgray";
+    color: antiquewhite;
+    line-height: 1.6;
+    text-align: center;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 28px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 18px;
+}
+h5{
+    font-size: 16px;
+}
+p{
+    font-size: 20px;
+}
+ul,ol{
+    text-align: left;
+    padding-left: 850px;
+}
+a{
+    font-size: 16px;
+    color: blue;
+    text-decoration: underline;
+}
+img{
+    background-color: aliceblue;
+    height: 200px;
+    width: 200px;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: aliceblue;
+    border-radius: 50px;
+}
